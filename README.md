@@ -1,7 +1,8 @@
 # Luminosity-Sensor-Andorid
 
-#### Luminosity sensor information re
+#### Luminosity sensor information reading from android device
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NDkyMDY1XX0=
+eyJoaXN0b3J5IjpbMjQ0NDM5MjMzXX0=
 -->
