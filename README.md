@@ -1,2 +1,7 @@
 # Luminosity-Sensor-Andorid
-Assignment 01 for mobile computing module in semester 08 
+
+#### Luminosity sensor information re
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjE4NDkyMDY1XX0=
+-->
